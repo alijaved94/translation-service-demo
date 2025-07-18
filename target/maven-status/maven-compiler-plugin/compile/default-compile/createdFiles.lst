@@ -1,0 +1,16 @@
+com/demo/translation/controller/TranslationController.class
+com/demo/translation/service/TranslationService.class
+com/demo/common/config/JwtAuthenticationFilter.class
+com/demo/translation/persistence/entity/Translation.class
+com/demo/translation/persistence/projection/TranslationView.class
+com/demo/translation/persistence/repository/TranslationRepository.class
+com/demo/translation/persistence/dto/TranslationExportDTO.class
+com/demo/translation/persistence/enums/Locale.class
+com/demo/common/config/SecurityConfig.class
+com/demo/TranslationServiceApplication.class
+com/demo/translation/persistence/enums/Tag.class
+com/demo/auth/controller/AuthController.class
+com/demo/auth/service/AuthService.class
+com/demo/common/util/TranslationUtil.class
+com/demo/common/config/DataLoaderCommandLineRunner.class
+com/demo/common/exceptions/GlobalExceptionHandler.class
